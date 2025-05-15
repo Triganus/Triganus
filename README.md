@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavel 
 - 👀 I am interested in programming, games (especially in the RPG genre), sports to keep fit)
-- 🌱 I am currently taking a frontend development course
+- 🌱 I am frontend developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My mail pavelbosy452@gmail.com or triganus2312000@gmail.com
 - 😄 Pronouns: ...
