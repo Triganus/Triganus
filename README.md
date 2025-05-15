@@ -10,11 +10,11 @@
  <img src="https://komarev.com/ghpvc/?username=Triganus&style=flat-square&color=blue" alt="profile views"/>
 </div>
 <h1 style="text-align: center;">
-  Hello everyone
+  Hello everyone,my name is Pavel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;">
-</h1>
+  </h1>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY0amdwYWw3enpnand0dnJubjdtejAyYm1hejBybzR4ZDJxanA1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47qtoknfn6bg9jqcuwv4j9p7s0g105sodfhz8m7c32&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ---
