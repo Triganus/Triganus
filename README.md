@@ -28,7 +28,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to contact: pavelbosy452@gmail.com or triganus2312000@gmail.com 
 
-- :seedling: Exploring Technical Content Writing.
+
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
